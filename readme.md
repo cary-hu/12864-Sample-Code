@@ -23,3 +23,18 @@ define the pins for the LCD
 #define E 4   //Displays clock pin
 #define RW 3  //Displays data pin
 ```
+
+## Reference
+
+- [HCDisplay](https://github.com/HobbyComponents/HCDisplay)
+
+To use the library you will need to download and unzip this library to your Arduino development environments library area.
+
+On Windows:
+My Documents\Arduino\libraries\
+
+On Mac:
+Documents/Arduino/libraries/
+
+Linux:
+Usually found within the users home area under /Arduino/libraries/
